@@ -240,7 +240,7 @@ nav.scrolled {
 }
 
 /* Medium screens - stack navigation */
-@media (max-width: 1070px) {
+@media (max-width: 1070px) and (min-width: 769px) {
 	nav {
 		padding: 15px 30px;
 	}
@@ -1748,7 +1748,7 @@ footer {
 
 
 /* Responsive */
-@media (max-width: 900px) {
+@media (max-width: 768px) {
 	nav {
 		padding: 15px 20px;
 	}
