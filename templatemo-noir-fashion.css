@@ -533,7 +533,7 @@ nav.scrolled {
 .stat-number {
 	font-size: 36px;
 	font-weight: 900;
-	color: var(--accent);
+	color: var(--bg-dark);
 	display: block;
 	margin-bottom: 5px;
 }
