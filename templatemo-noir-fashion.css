@@ -988,7 +988,7 @@ nav.scrolled {
 	color: var(--accent);
 	font-weight: 600;
 }
-.button-submit {
+.button-price {
     background: #ffffff;
     color: #30b1b1;
     padding: 15px 50px;
@@ -1649,7 +1649,7 @@ footer {
 	max-width: 1400px;
 	margin: 0 auto;
 	padding-top: 30px;
-	border-top: 1px solid #222;
+	border-top: 1px solid #ffffff;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
