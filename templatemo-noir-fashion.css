@@ -988,6 +988,22 @@ nav.scrolled {
 	color: var(--accent);
 	font-weight: 600;
 }
+.btn-submit {
+	background: var(--accent);
+	color: white;
+	padding: 18px 50px;
+	border: none;
+	font-size: 14px;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	cursor: pointer;
+	transition: all 0.3s ease;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+
 
 /* Featured Section */
 .featured {
